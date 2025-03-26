@@ -1,4 +1,4 @@
-# 🚀 Task Manager Pro
+# 🚀 Task Management App
 
 A modern, clean and fully interactive task management app built with **React**, **TypeScript**, and **TailwindCSS**.
 
@@ -34,7 +34,7 @@ This app is designed to be as intuitive as possible:
 
 ## 📸 Live Demo
 
-➡️ [Click here to try the app](https://task-manager.vercel.app)
+➡️ [Click here to try the app](https://taskmanagementapplication.vercel.app)
 
 ---
 
@@ -69,8 +69,8 @@ This app is designed to be as intuitive as possible:
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/task-manager-pro.git
-cd task-manager-pro
+git clone https://github.com/ebouabbadi/task-Management-app.git
+cd task-Management-app
 ```
 
 ### 2. Install dependencies
@@ -109,5 +109,3 @@ Full-Stack & Mobile Developer
 🔗 [LinkedIn](https://www.linkedin.com/in/ebouabbadi) • [GitHub](https://github.com/ebouabbadi)
 
 ---
-
-> Built with ❤️ to showcase clean code, good structure, and great UI/UX
