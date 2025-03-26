@@ -2,7 +2,7 @@
 
 A modern, clean and fully interactive task management app built with **React**, **TypeScript**, and **TailwindCSS**.
 
-> ✅ Try the live demo: [task-manager.vercel.app](https://task-manager.vercel.app)
+> ✅ Try the live demo: [the-task-management.vercel.app](https://task-manager.vercel.app)
 
 ---
 
